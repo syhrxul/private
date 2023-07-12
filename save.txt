@@ -1,0 +1,16 @@
+file pada script.js line  38  
+    
+    {
+        path: 'assets/4.mp3',
+        displayName: 'Perfect',
+        cover: 'assets/4.jpg',
+        artist: 'Ed Sheeran',
+        destinationPageUrl: 'menu 4/generator/index.html',
+    },
+    {
+        path: 'assets/5.mp3',
+        displayName: 'DJ Whos that girls',
+        cover: 'assets/5.jpg',
+        artist: 'DJ',
+        destinationPageUrl: 'page5.html',
+    },
